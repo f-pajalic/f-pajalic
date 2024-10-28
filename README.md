@@ -1,0 +1,3 @@
+- procedural snake animation
+- procedural map
+- vector collision and physics i.e movement
